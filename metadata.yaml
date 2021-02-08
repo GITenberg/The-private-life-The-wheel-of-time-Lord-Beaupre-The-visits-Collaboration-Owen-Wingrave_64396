@@ -1,0 +1,30 @@
+_repo: The-private-life-The-wheel-of-time-Lord-Beaupre-The-visits-Collaboration-Owen-Wingrave_64396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: https://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2021-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64396'
+  lccn: '23000321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+tableOfContents: The private life -- The wheel of time -- Lord Beaupré -- The visits
+  -- Collaboration -- Owen Wingrave.
+title: The private life, The wheel of time, Lord Beaupré, The visits, Collaboration,
+  Owen Wingrave.
+url: http://www.gutenberg.org/ebooks/64396
