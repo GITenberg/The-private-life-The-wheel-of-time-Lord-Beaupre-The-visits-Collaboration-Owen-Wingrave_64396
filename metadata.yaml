@@ -1,5 +1,8 @@
 _repo: The-private-life-The-wheel-of-time-Lord-Beaupre-The-visits-Collaboration-Owen-Wingrave_64396
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64396-h/images/private_cover.jpg
 creator:
   author:
     agent_name: James, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/113
     wikipedia: https://en.wikipedia.org/wiki/Henry_James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64396#The-private-life-The-wheel-of-time-Lord-Beaupre-The-visits-Collaboration-Owen-Wingrave
 gutenberg_issued: '2021-01-26'
 gutenberg_type: Text
 identifiers:
